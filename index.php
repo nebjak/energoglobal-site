@@ -18,22 +18,27 @@
                 </p>
             </div>
             <div class="clear"></div>
-            <div class="grid_12">
-                <ul class="hover_block">
-                    <li>
-                        <a href="/">
-                            <img src="img/mhe.jpg" alt="alt" />
-                            MHE
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/">
-                            <img src="img/dea.jpg" alt="alt" />
-                            DEA
-                        </a>
-                    </li>
-		</ul>
-            </div>            
+            <div class="prefix_1 grid_5 tile">
+                <p>
+                    <a href="#">
+                        <img src="img/mhe.jpg" alt="Mini hidro elektrane" title="Mini hidro elektrane" />
+                        <strong>Mini hidro elektrane</strong><br/>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+                        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                    </a>
+                </p>
+            </div>
+            <div class="grid_5 suffix_1 tile" style="float: right;">
+                <p>
+                    <a href="#">
+                        <img src="img/dea.jpg" alt="Dizel elektricni agregati" title="Dizel elektricni agregati" />
+                        <strong>Dizel elektricni agegati</strong><br/>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+                        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                    </a>
+                </p>
+            </div>
+            <div class="clear"></div>
         </div>
     </body>
 </html>

@@ -1,17 +1,17 @@
 $(function() {
-    $('ul.hover_block li').hover(function(){
+    $('div.tile a').hover(function(){
         $(this).find('img').animate({
-            left:'360px'
+            top:'250px'
         },{
             queue:false,
             duration:500
         });
     }, function(){
         $(this).find('img').animate({
-            left:'0px'
+            top:'0px'
         },{
             queue:false,
-            duration:500
+            duration:1000
         });
     });
 });
