@@ -18,32 +18,22 @@
                 </p>
             </div>
             <div class="clear"></div>
-            <div class="prefix_1 grid_5 levo">
-                <p>
-                    <a href="#">
-                        <img class="tile" id="mhe" src="img/mhe.jpg" alt="Mini hidro elektrane" title="Mini hidro elektrane" />
-                    </a>
-                </p>
-            </div>
-            <div class="grid_5 suffix_1 desno">
-                <p>
-                    <a href="#">
-                        <img class="tile" id="dea" src="img/dea.jpg" alt="Dizel elektricni agregati" title="Dizel elektricni agregati" />
-                    </a>
-                </p>
-            </div>
-            <div class="clear"></div>
-            <div class="grid_1">
-                <p>&nbsp;</p>
-            </div>
-            <div class="grid_10">
-                <p class="tile" id="info_tile">
-                    ENERGOGLOBAL D.O.O.
-                </p>
-            </div>
-            <div class="grid_1">
-                <p>&nbsp;</p>
-            </div>
+            <div class="grid_12">
+                <ul class="hover_block">
+                    <li>
+                        <a href="/">
+                            <img src="img/mhe.jpg" alt="alt" />
+                            MHE
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/">
+                            <img src="img/dea.jpg" alt="alt" />
+                            DEA
+                        </a>
+                    </li>
+		</ul>
+            </div>            
         </div>
     </body>
 </html>
