@@ -1,0 +1,26 @@
+body {
+    background-image: url('../img/bg2.png');
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+
+.tile {
+    border: 10px solid #56c6f5;
+    border-radius: 20px;
+}
+
+#info_tile {
+    padding: 10px 10px 10px 10px;
+}
+
+.hover {
+    border: 10px solid #2d6e8c;
+}
+
+.desno {
+    text-align: right;
+}
+
+.levo {
+    text-align: left;
+}
