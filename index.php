@@ -28,9 +28,9 @@
                     </a>
                 </p>
             </div>
-            <div class="grid_5 suffix_1 tile" style="float: right;">
+            <div class="grid_5 suffix_1 tile">
                 <p>
-                    <a href="#">
+                    <a href="#" style="float: right;">
                         <img src="img/dea.jpg" alt="Dizel elektricni agregati" title="Dizel elektricni agregati" />
                         <strong>Dizel elektricni agegati</strong><br/>
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit,
