@@ -2,6 +2,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
+        <link rel="author" href="humans.txt" />
         <title></title>
         <link rel="stylesheet" type="text/css" media="all" href="css/reset.css" />
         <link rel="stylesheet" type="text/css" media="all" href="css/text.css" />
@@ -35,10 +36,21 @@
                         <strong>Dizel elektricni agegati</strong><br/>
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit,
                         sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+                        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                     </a>
                 </p>
             </div>
             <div class="clear"></div>
+            <div class="grid_12" id="footer">
+                <p>
+                    <strong>ENERGOGLOBAL D.O.O.</strong>, Kneza Miloša 33, 21000 Novi Sad&nbsp;
+                    <strong>Tel:</strong> +381 21 499 315&nbsp;<strong>Fax:</strong> +381 21 499 315&nbsp;
+                    <strong>E-mail:</strong> office@energoglobal.com
+                    <br/>
+                    &copy; 2011. www.energoglobal.com
+                </p>
+            </div>
         </div>
     </body>
 </html>

@@ -39,3 +39,9 @@ div.tile img {
 .hover {
     border: 10px solid #2d6e8c;
 }
+
+#footer {
+    text-align: center;
+    font-size: x-small;
+    color: #2d6e8c;
+}

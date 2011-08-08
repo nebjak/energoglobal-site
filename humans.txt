@@ -1,0 +1,15 @@
+/* TEAM */
+
+    Chef: Nebojsa Jakovljevic.
+    Contact: nebojsa.jakovljevic [at] energoglobal.com
+    Twitter: @nebjak
+    Location: Novi Sad, Serbia.
+
+
+/* SITE */
+
+    Last update: 2011/08/08
+    Language: Srpski
+    Standards: HTML5, CSS3
+    Components: jQuery, 960gs
+    IDE: Netbeans, Kate, Gimp, Inkscape
