@@ -1,0 +1,22 @@
+= WEB SAJT ENERGOGLOBAL.COM =
+
+
+[http://www.energoglobal.com/ www.energoglobal.com] 
+
+
+Eneroglobal doo
+Kneza Miloša 33
+21000 Novi Sad
+Srbija
+
+
+== Standardi: ==
+* HTML5
+* CSS3
+
+
+== Komponente: ==
+* jQuery 1.6.2
+* 960gs
+
+
