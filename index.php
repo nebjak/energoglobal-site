@@ -39,7 +39,7 @@
             </div>
             <div class="grid_5 suffix_1 tile">
                 <p>
-                    <a href="#" style="float: right;">
+                    <a href="http://dizelagregat.com/" style="float: right;">
                         <img src="img/dea.jpg" alt="Dizel elektricni agregati" title="Dizel elektricni agregati" />
                         <strong>Dizel elektricni agegati</strong><br/>
                         <br/>
