@@ -2,8 +2,14 @@
 <html>
     <head>
         <meta charset="UTF-8" />
-        <meta name="description" content="Energoglobal doo, Kneza Milosa 33, 21000 Novi Sad, Srbija" />
-        <meta name="keywords" content="mini-hidroelektrana, struja, energetika, elektrana, mini, hidroelektrana, dizlel, dizel-agregat, agregat, dea, vodenica" />
+        <meta name="description" content="Energoglobal doo, Kneza Milosa 33, 
+              21000 Novi Sad, Srbija - Konsalting, projektovanje i izvodjenje - 
+              Obnovljivi izvori energije - male hidroelektrane, biomasa, biogas, 
+              ... - Pomoćni izvori napajanja - dizel električni agregati, UPS" />
+        <meta name="keywords" content="mini-hidroelektrana, struja, energetika, 
+              elektrana, mini, hidroelektrana, dizlel, dizel-agregat, agregat, 
+              dea, vodenica, ups, konsalting, projektovanje, biomasa, biogas, 
+              napajanje, turbina, generator, izvodjenje" />
         <meta name="author" content="Nebojsa Jakovljevic // nebojsa.jakovlejvic [at] energoglobal.com" />
         <link rel="author" href="humans.txt" />
         <title>Energoglobal doo - Dizel agregati - Mini hidroelektrane</title>
@@ -39,12 +45,16 @@
             </div>
             <div class="grid_5 suffix_1 tile">
                 <p>
-                    <a href="http://dizelagregat.com/" style="float: right;">
+                    <a href="http://www.dizelagregat.com/" style="float: right;">
                         <img src="img/dea.jpg" alt="Dizel elektricni agregati" title="Dizel elektricni agregati" />
-                        <strong>Dizel elektricni agegati</strong><br/>
-                        <br/>
-                        <br/>
-                        Odeljak u pripremi, uskoro više!
+                        <strong>Dizel električni agegati</strong><br/>
+                        Energoglobal doo vrši prodaju novih, kao i generalno 
+                        repariranih polovnih dizel električnih agregata. 
+                        Pored prodaje vršimo i servis što obuhvata hitne 
+                        intervencije i redovno održavanje. Posedujemo flotu od 
+                        više agregata različitih snaga i vršimo usluge rentiranja 
+                        sa mogućnošću instalacije, prevoza na objekat i stalnog 
+                        prisustva stručnog lica.
                     </a>
                 </p>
             </div>
