@@ -8,7 +8,7 @@
 
 /* SITE */
 
-    Last update: 2011/10/14
+    Last update: 2012/02/20
     Language: Srpski
     Standards: HTML5, CSS3
     Components: jQuery, 960gs
