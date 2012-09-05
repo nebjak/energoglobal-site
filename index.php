@@ -61,7 +61,7 @@
             <div class="clear"></div>
             <div class="grid_12" id="footer">
                 <p>
-                    <strong>ENERGOGLOBAL D.O.O.</strong>, Kneza Miloša 33, 21000 Novi Sad&nbsp;
+                    <strong>ENERGOGLOBAL D.O.O.</strong>, Somborska rampa 25, 21000 Novi Sad&nbsp;
                     <strong>Tel:</strong> +381 21 499 315&nbsp;<strong>Fax:</strong> +381 21 499 315&nbsp;
                     <strong>E-mail:</strong> office@energoglobal.com
                     <br/>
