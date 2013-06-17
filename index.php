@@ -64,7 +64,11 @@
           <strong>ENERGOGLOBAL D.O.O.</strong>, Somborska rampa 25, 21203 Veternik - Novi Sad&nbsp;
           <strong>Tel:</strong> +381 21 499 315&nbsp;<strong>Fax:</strong> +381 21 499 315&nbsp;
           <strong>E-mail:</strong> office@energoglobal.com
-          <br/>
+          <br>
+          <a href="https://plus.google.com/115524714151889708483" rel="publisher"><img src="https://ssl.gstatic.com/images/icons/gplus-32.png" alt="Google+" title="Follow us on G+"  /></a>
+          <a href="https://twitter.com/energoglobal" class="twitter-follow-button" data-show-count="false">Follow @energoglobal</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+          <br>
           &copy; 2011. www.energoglobal.com
         </p>
       </div>
